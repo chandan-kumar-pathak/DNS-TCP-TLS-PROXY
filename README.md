@@ -1,7 +1,7 @@
 # DNS-TCP-TLS-PROXY
 Nowadays, some DNS providers (such as Cloudflare) offer a DNS-over-TLS feature that could let us enhance privacy by encrypting our DNS queries. If you applications don't handle DNS-over-TLS by default. Your need a simple DNS to DNS-over-TLS proxy that can be use to enable application to query a DNS-over-TLS server.
 
-# DNS to DNS over TLS proxy
+# DNS (TCP) to DNS over TLS proxy
 
 ## Implementation
 
